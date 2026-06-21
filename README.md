@@ -30,7 +30,7 @@
 >
 > 🥉 **3rd place — Microsoft Agent Academy Hackathon 2026** · Cowork Collective track
 >
-> 🔗 **Repo:** [Jirawat-Yaito/Jirawat-Yaito](https://github.com/Jirawat-Yaito/Jirawat-Yaito) &nbsp;·&nbsp; 🎬 **Demo:** [Watch on YouTube](https://www.youtube.com/watch?v=Sri1vZOrUAw)
+> 🔗 **Repo:** [Jirawat-Yaito/team-yaito-pmo](https://github.com/Jirawat-Yaito/team-yaito-pmo) &nbsp;·&nbsp; 🎬 **Demo:** [Watch on YouTube](https://www.youtube.com/watch?v=Sri1vZOrUAw)
 
 ---
 
